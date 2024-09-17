@@ -102,8 +102,8 @@ Before knowing how to convert data, you must know all the data types. In c#, we 
 
 
 #### **Other Data types**
-5. **char** - this data type only holds a single character. And uses single quotation (eg. 'a')
-6. **string** - this data type is a sequence of char (e.g. 'hitler')
+5. **char** - this data type only holds a single character and uses single quotation (eg. 'a')
+6. **string** - this data type is a sequence of char and uses double quotation (e.g. "hitler")
 7. **bool** - this data type only holds two values, True or False and is used in conditions.
 
 
