@@ -129,7 +129,7 @@ double num2 = Convert.ToDouble(num2_text);
 ```
 
 
-## Parse Method
+### Parse Method
 
 The syntax for this type of conversion is:
 
