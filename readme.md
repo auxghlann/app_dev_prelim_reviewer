@@ -1,6 +1,6 @@
 # App Dev Reviewer Prelim
 
-* Understaning Controls By Creating a simple Calculator App :
+* Understanding Controls By Creating a simple Calculator App :
   * Textboxes 
   * Buttons 
   * Labels
