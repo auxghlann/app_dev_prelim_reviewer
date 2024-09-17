@@ -76,7 +76,10 @@ labelName.Text = numericValue.ToString();
     >kaya kung dino-double click nyo yung buttons, may ``name_Click()`` na nakalagay
 
 Ex code of click event of buttons:
+
+
 ![btnClick](btnClick.png)
+
 
 > This is an example of a click event of a button named `btnSubtract`. And whatever is inside that event will be executed whenever the button is clicked.
 
