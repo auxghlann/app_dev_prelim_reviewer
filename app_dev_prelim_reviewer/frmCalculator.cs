@@ -19,14 +19,18 @@ namespace app_dev_prelim_reviewer
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            // Get the Value from a text box
+            // Get the text Value of a text box using the Text Property
+
+            string num1_text = txtNum1.Text;
+            string num2_text = txtNum2.Text;
+
 
             // Two ways to convert a data type from another datatype
 
             /// Convert.DataType() method
 
-            double num1 = Convert.ToDouble(txtNum1.Text);
-            double num2 = Convert.ToDouble(txtNum2.Text);
+            double num1 = Convert.ToDouble(num1_text);
+            double num2 = Convert.ToDouble(num2_text);
 
             /// datatype.Parse() method
 
